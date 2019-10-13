@@ -1,6 +1,6 @@
 # stateful_example
 
-A new Flutter application.
+A Flutter app which is used to demonstrate the basic functioning of statefulWidget
 
 ## Getting Started
 
